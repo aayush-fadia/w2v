@@ -1,0 +1,5 @@
+scratchspace/
+.idea/
+__pycache__/
+timeout
+
